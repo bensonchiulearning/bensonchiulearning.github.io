@@ -1,5 +1,5 @@
 ---
-title: Let's begin - 接下來的個人安排與 07/08 月發文規劃
+title: Let's begin - 接下來的個人安排與發文規劃
 date: 2023-07-23 18:57:17
 categories:
 - life
