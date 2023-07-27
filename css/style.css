@@ -602,7 +602,7 @@ body {
   }
 }
 .max-width {
-  max-width: 50rem;
+  max-width: 55rem;
 }
 @media (max-width: 480px) {
   .px3 {
@@ -867,7 +867,7 @@ body {
   overflow: auto;
   margin-top: 1rem;
   padding-right: 2rem;
-  max-width: 20em;
+  max-width: 16em;
   max-height: calc(95vh - 7rem);
   text-align: right;
 }
